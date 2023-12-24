@@ -5,6 +5,7 @@
 img {
     width: min-content;
     height: 300px;
+    padding-top: 12px;
 }
 
 footer{
@@ -72,7 +73,7 @@ body {
 
 .right-section{
     float: left;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .experience {
